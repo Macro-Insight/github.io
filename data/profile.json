@@ -1,0 +1,18 @@
+{
+  "slug": "lior",
+  "name": "Lior",
+  "role": "Macro Finance Analyst",
+  "brand": "Macro Insight",
+  "school": "University of Barcelona · Faculty of Economics and Business",
+  "major": "Finance · Economics · Banking",
+  "bio": "Lior monitors global macroeconomic and capital-market change through economic data, central-bank policy, market cycles and global events, producing logical trend analysis for asset allocation and market judgment.",
+  "avatar": "assets/avatar.png",
+  "topics": [
+    "Global Macro",
+    "Central Banks",
+    "Market Cycles",
+    "Asset Allocation"
+  ],
+  "language": "en",
+  "disclaimer": "Educational content only; not investment advice."
+}

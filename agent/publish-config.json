@@ -1,0 +1,10 @@
+{
+  "provider": "github-pages",
+  "owner": "Macro-Insight",
+  "repository": "github.io",
+  "branch": "main",
+  "siteUrl": "https://macro-insight.github.io/github.io/",
+  "basePath": "",
+  "contentSource": "data/articles.json",
+  "reviewRequired": true
+}

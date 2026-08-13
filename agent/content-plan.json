@@ -1,0 +1,47 @@
+{
+  "cadence": "2 articles and 1 research note per month",
+  "lanes": [
+    {
+      "topic": "Global Macro",
+      "priority": 1,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    },
+    {
+      "topic": "Central Banks",
+      "priority": 2,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    },
+    {
+      "topic": "Market Cycles",
+      "priority": 3,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    },
+    {
+      "topic": "Asset Allocation",
+      "priority": 4,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    }
+  ],
+  "workflow": [
+    "draft",
+    "source check",
+    "human review",
+    "publish"
+  ]
+}

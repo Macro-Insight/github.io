@@ -1,0 +1,23 @@
+[
+  {
+    "id": "lior-research-1",
+    "title": "Global Cycle Monitor",
+    "type": "Monthly dashboard",
+    "summary": "Growth, inflation, liquidity and labor indicators organized by regime.",
+    "status": "August 2026"
+  },
+  {
+    "id": "lior-research-2",
+    "title": "Central Bank Reaction Map",
+    "type": "Policy tracker",
+    "summary": "Mandates, current constraints and the market variables each bank is watching.",
+    "status": "12 economies"
+  },
+  {
+    "id": "lior-research-3",
+    "title": "Cross-Asset Scenario Book",
+    "type": "Allocation note",
+    "summary": "Base, upside and stress cases translated into asset-class sensitivities.",
+    "status": "Quarterly"
+  }
+]

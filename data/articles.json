@@ -1,0 +1,90 @@
+[
+  {
+    "id": "policy-divergence",
+    "title": "Policy Divergence Returns to the Center of Global Markets",
+    "category": "Central Banks",
+    "summary": "How different inflation paths are reopening gaps in rates, currencies and financial conditions.",
+    "readTime": "8 min",
+    "date": "2026-08-07",
+    "tags": [
+      "Policy",
+      "FX"
+    ],
+    "body": {
+      "intro": "The global policy cycle is fragmenting. Inflation persistence, domestic demand and fiscal settings now differ enough that major central banks can reach different conclusions from similar headline data.",
+      "heading1": "Divergence changes financial conditions",
+      "section1": "Relative policy paths matter through yield differentials, currency valuation and the cost of dollar funding. A delayed easing cycle in one economy can tighten conditions elsewhere even when local central banks are cutting rates.",
+      "quote": "The important signal is not a single rate decision, but the widening gap between reaction functions.",
+      "heading2": "What to monitor",
+      "section2": "Track services inflation, wage growth and credit creation alongside central-bank guidance. Currency moves become more informative when they agree with changes in real-rate spreads and funding conditions.",
+      "close": "Policy divergence is best treated as a cross-market transmission mechanism, not a stand-alone forecast."
+    },
+    "status": "published"
+  },
+  {
+    "id": "cycle-dashboard",
+    "title": "A Four-Signal Dashboard for the Economic Cycle",
+    "category": "Research Method",
+    "summary": "Growth, inflation, liquidity and labor—read together instead of one release at a time.",
+    "readTime": "7 min",
+    "date": "2026-07-26",
+    "tags": [
+      "Cycle",
+      "Data"
+    ],
+    "body": {
+      "intro": "Economic releases are noisy in isolation. A more useful cycle view combines growth, inflation, liquidity and labor into a dashboard that asks whether the signals are improving, deteriorating or merely normalizing.",
+      "heading1": "Four signals, one cycle",
+      "section1": "Growth measures demand and production momentum. Inflation describes pricing pressure. Liquidity captures the financial conditions that transmit policy, while labor data shows whether household income and business demand remain durable.",
+      "quote": "A dashboard is valuable when it prevents one dramatic release from replacing the broader trend.",
+      "heading2": "Read direction before level",
+      "section2": "Compare each signal with its own recent range, then look for confirmation across categories. A turning point becomes more credible when weaker growth coincides with softer hiring and tighter liquidity rather than appearing in a single survey.",
+      "close": "The dashboard does not eliminate uncertainty; it makes conflicting evidence visible before a conclusion is reached."
+    },
+    "status": "published"
+  },
+  {
+    "id": "dollar-liquidity",
+    "title": "Dollar Liquidity and the Assets That Notice First",
+    "category": "Global Markets",
+    "summary": "A cross-asset map of funding conditions, currency pressure and risk appetite.",
+    "readTime": "9 min",
+    "date": "2026-07-14",
+    "tags": [
+      "USD",
+      "Liquidity"
+    ],
+    "body": {
+      "intro": "Dollar liquidity connects bank funding, currency hedging and global risk appetite. Changes often appear first in markets that depend on external financing before they become obvious in broad equity indexes.",
+      "heading1": "Follow the funding chain",
+      "section1": "Start with short-term dollar funding and cross-currency basis, then compare emerging-market currencies, credit spreads and the performance of highly leveraged assets. Agreement across these markets is more useful than any one indicator.",
+      "quote": "Liquidity is easiest to recognize through the sequence of markets that begin demanding a higher price for balance-sheet capacity.",
+      "heading2": "Separate stress from repricing",
+      "section2": "A stronger dollar does not automatically mean a liquidity crisis. Persistent funding premiums, weaker market depth and broad credit deterioration provide stronger evidence that a currency move is becoming a systemic constraint.",
+      "close": "Cross-asset confirmation helps distinguish ordinary repricing from a genuine deterioration in dollar availability."
+    },
+    "status": "published"
+  },
+  {
+    "id": "allocation-regimes",
+    "title": "Asset Allocation by Regime, Not by Forecast",
+    "category": "Portfolio Strategy",
+    "summary": "A scenario framework for building resilient allocations under uncertain macro paths.",
+    "readTime": "10 min",
+    "date": "2026-07-01",
+    "tags": [
+      "Allocation",
+      "Scenarios"
+    ],
+    "body": {
+      "intro": "Point forecasts create a false sense of precision when growth and inflation can follow several plausible paths. Regime-based allocation begins with the economic combinations a portfolio may face and the sensitivities that matter in each one.",
+      "heading1": "Map exposures to regimes",
+      "section1": "Consider four broad environments: rising growth with rising inflation, rising growth with falling inflation, weakening growth with persistent inflation, and weakening growth with disinflation. Assets respond differently to the mix, not simply to whether growth is high or low.",
+      "quote": "Resilience comes from understanding what the portfolio assumes, not from pretending one scenario is certain.",
+      "heading2": "Use scenarios as risk controls",
+      "section2": "Estimate which holdings share the same macro exposure, identify where correlations may rise during stress and define evidence that would shift the probability assigned to each regime. Rebalancing then follows observed changes rather than conviction alone.",
+      "close": "A regime framework supports disciplined discussion of risk without implying that future returns can be guaranteed."
+    },
+    "status": "published"
+  }
+]
