@@ -1,5 +1,26 @@
 [
   {
+    "id": "how-treasury-yields-affect-mortgage-rates-federal-reserve-policy-and-asset-alloc",
+    "title": "How Treasury Yields Affect Mortgage Rates, Federal Reserve Policy, and Asset Allocation",
+    "category": "Article",
+    "summary": "Long-term Treasury yields are a key transmission channel from inflation and growth expectations into household borrowing costs and asset valuations. A Federal Reserve policy decision matters, but a 30-year mortgage rate…",
+    "readTime": "2 min",
+    "date": "2026-08-19",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Long-term Treasury yields are a key transmission channel from inflation and growth expectations into household borrowing costs and asset valuations. A Federal Reserve policy decision matters, but a 30-year mortgage rate is more directly shaped by the 10-year Treasury yield and the market expectations embedded in it. For investors, the practical implication is to follow the whole chain: inflation and activity data, bond yields, credit conditions, and then the relative appeal of bonds, equities, and cash.",
+      "heading1": "Why do mortgage rates usually follow the 10-year Treasury yield?",
+      "section1": "Mortgage lenders use the 10-year Treasury yield as a guide when pricing long-dated home loans, then add compensation for credit, prepayment, and operating risks. On August 13, 2026, Freddie Mac reported that the average 30-year fixed U.S. mortgage rate had eased to 6.67% from 6.69% a week earlier, but remained above 6.58% a year earlier. The same report noted that the 10-year Treasury yield had fallen to 4.61% by midday Thursday from 4.72% at the start of that week. A small decline in yields can relieve borrowing costs, but it does not automatically restore affordability.</p><p><img src=\"assets/github-how-treasury-yields-affect-mortgage-rates-federal-reserve-policy-and-asset-alloc-1.png\" alt=\"\" loading=\"lazy\">",
+      "quote": "",
+      "heading2": "What do Treasury yields reveal about the policy and inflation outlook?",
+      "section2": "A Treasury yield combines market views about future inflation, expected central-bank policy, economic growth, and the return investors require for holding a longer bond. The August mortgage-rate report linked higher yields earlier in 2026 to oil-price driven inflation concerns and noted that the Federal Reserve could hold off on rate increases if inflation continued to cool. This is why one weak data release should not be treated as a complete policy signal: policymakers must weigh price stability against labor-market and growth risks, while bond investors reassess all of those forces continuously.</p><p><strong>How should investors use the bond-yield signal in asset allocation?</strong></p><p>Use yields as a valuation and risk input, not as a stand-alone forecast. Higher long-term yields can increase mortgage and business financing costs, pressure highly valued equities, and make cash and new bonds more competitive. Falling yields can ease those pressures, but may also reflect weaker growth expectations. A disciplined allocation process compares portfolio duration, equity valuation sensitivity, credit quality, liquidity needs, and time horizon. The actionable next step is to review whether a portfolio can withstand both a renewed yield rise and a growth slowdown rather than relying on a single interest-rate scenario.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "how-oil-treasury-yields-and-fed-expectations-drive-cross-asset-markets",
     "title": "How Oil, Treasury Yields, and Fed Expectations Drive Cross-Asset Markets",
     "category": "Article",
