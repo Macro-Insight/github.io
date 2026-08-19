@@ -1,5 +1,26 @@
 [
   {
+    "id": "how-oil-treasury-yields-and-fed-expectations-drive-cross-asset-markets",
+    "title": "How Oil, Treasury Yields, and Fed Expectations Drive Cross-Asset Markets",
+    "category": "Article",
+    "summary": "A rise in oil prices can quickly become a cross-asset market event because it changes inflation expectations, Treasury yields, central-bank expectations, and equity valuations at the same time. On August 17, 2026, AP…",
+    "readTime": "2 min",
+    "date": "2026-08-19",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "A rise in oil prices can quickly become a cross-asset market event because it changes inflation expectations, Treasury yields, central-bank expectations, and equity valuations at the same time. On August 17, 2026, AP reported that Brent crude rose 2.7% to $90.87 and the 10-year U.S. Treasury yield increased to 4.72% from 4.68% late the previous week. The key macro lesson is to assess the transmission chain rather than treating an oil-price move as an isolated commodity story.",
+      "heading1": "How does an oil shock move from inflation data to bond yields?",
+      "section1": "Higher oil prices raise the direct cost of fuel and can lift transport, production, and distribution costs across the economy. If investors believe the increase will persist, they may demand more compensation for expected inflation when buying longer-dated government bonds. Bond prices then fall and yields rise. AP noted that the 10-year Treasury yield had climbed from 3.97% before the Iran war, illustrating how an energy shock can reprice the long end of the yield curve even before a new Federal Reserve decision.",
+      "quote": "",
+      "heading2": "Why do higher Treasury yields affect stocks, cash, and portfolio allocation?",
+      "section2": "Higher Treasury yields raise the discount rate used to value future corporate cash flows, which can place particular pressure on long-duration and highly valued equities. They also make cash and government bonds more competitive with risk assets, while increasing borrowing costs for households and businesses. The result is not necessarily a uniform stock-market decline: energy producers may benefit from higher crude prices, while fuel-intensive industries and rate-sensitive sectors can face a more difficult backdrop. A diversified allocation should be tested for exposure to both inflation and rising real or nominal yields.</p><p><img src=\"assets/github-how-oil-treasury-yields-and-fed-expectations-drive-cross-asset-markets-1.png\" alt=\"\" loading=\"lazy\"></p><p><strong>What should investors watch before drawing a cycle conclusion?</strong></p><p>Watch whether the oil move is sustained, whether broader price measures such as CPI, PPI, and the PCE price index confirm pass-through, and whether growth data weaken at the same time. The difficult scenario for policymakers is elevated inflation alongside softer activity, because tighter policy can restrain prices but also add pressure to growth. Rather than making a binary prediction about the next Fed meeting, investors can use this checklist to review duration risk, equity concentration, credit quality, and liquidity needs under several inflation and yield scenarios.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "july-2026-ppi-and-the-federal-reserve-what-cooler-producer-inflation-means-for-b",
     "title": "July 2026 PPI and the Federal Reserve: What Cooler Producer Inflation Means for Bonds, Equities and Oil Risk",
     "category": "Article",
