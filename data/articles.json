@@ -1,5 +1,26 @@
 [
   {
+    "id": "why-treasury-buybacks-cannot-solve-america-s-long-bond-problem",
+    "title": "Why Treasury Buybacks Cannot Solve America's Long-Bond Problem",
+    "category": "Article",
+    "summary": "The US bond-market message is clear: a Treasury buyback can ease trading conditions at the margin, but it cannot durably lower long-term borrowing costs while investors remain concerned about fiscal supply, inflation and…",
+    "readTime": "3 min",
+    "date": "2026-08-21",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "The US bond-market message is clear: a Treasury buyback can ease trading conditions at the margin, but it cannot durably lower long-term borrowing costs while investors remain concerned about fiscal supply, inflation and Federal Reserve credibility. On August 20, the 10-year Treasury yield returned to 4.69% after Treasury Secretary Scott Bessent announced larger buybacks, while the 30-year yield stood at 5.23%, only modestly below its recent 19-year high. For the macro outlook, this is a warning that financial conditions are being set by more than the Fed's policy rate.</p><p><img src=\"assets/github-why-treasury-buybacks-cannot-solve-america-s-long-bond-problem-1.png\" alt=\"\" loading=\"lazy\">",
+      "heading1": "Why did Treasury buybacks fail to keep long-term yields down?",
+      "section1": "The immediate reason is scale. Treasury plans to double bond-buyback operations to $4 billion from $2 billion, with the aim of reducing available 10- to 30-year securities and supporting their prices. But investors are assessing a much larger supply picture: the US government is expected to issue nearly $550 billion in bonds this quarter, according to analysts cited by AP. Public debt surpassed $40 trillion on August 19, and the Congressional Budget Office expects the annual federal deficit to exceed $2 trillion this year. A liquidity operation cannot substitute for a credible path for issuance, deficits and inflation.",
+      "quote": "",
+      "heading2": "What is the Federal Reserve credibility premium in Treasury yields?",
+      "section2": "Long-maturity yields compensate investors for expected short rates, expected inflation and the uncertainty around both. That final component is now material. The Fed kept its policy rate near 3.6% at its July 28-29 meeting, but inflation was still 3.7% year over year in June on the Fed's preferred measure. Rising oil prices and uncertainty over Middle East shipping add another inflation risk, while investors have yet to receive a clear signal from Fed Chair Kevin Warsh on how the central bank would respond if inflation does not decline. When the market doubts the reaction function, the term premium can rise even without an immediate policy-rate increase.</p><p><strong>How do high Treasury yields reach the real economy?</strong></p><p>The 10-year Treasury yield is a key benchmark for mortgage and corporate borrowing costs. Higher long yields therefore tighten financial conditions directly, weakening the interest-sensitive parts of the economy even if the Federal Reserve leaves its overnight policy rate unchanged. Housing is the clearest channel: higher mortgage rates have coincided with weaker home purchases. Companies face a parallel challenge as higher Treasury yields raise the return investors demand on new debt, including the heavy borrowing used to finance AI data centers. This creates a feedback loop in which bond supply, capital expenditure and real-economy financing conditions reinforce one another.</p><p><strong>What does the bond-market signal mean for asset allocation?</strong></p><p>The practical implication is to separate duration risk from income opportunity. Elevated yields can improve the prospective income available from high-quality fixed income, but long-duration exposure remains vulnerable if inflation expectations, fiscal concerns or Treasury supply intensify. A balanced approach favors liquidity, credit quality and diversification across maturities rather than relying on a policy intervention to compress the long end. Equity investors should also test valuations against persistently higher discount rates, especially in sectors dependent on long-dated cash flows and large external financing needs.</p><p><strong>What should investors watch next?</strong></p><p>Three developments will determine whether the recent yield rise becomes a lasting regime shift: evidence that inflation is moving convincingly toward the Fed's 2% goal, a more defined Federal Reserve response to upside inflation risks, and concrete fiscal measures that change the expected path of Treasury issuance. Until those signals align, buybacks may reduce episodic stress but are unlikely to override the market's broader judgment. The central conclusion is straightforward: lower long-term rates require lower perceived inflation and supply risk, not simply more demand for a small portion of outstanding bonds.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "federal-reserve-policy-outlook-why-sticky-inflation-could-keep-rates-higher-for",
     "title": "Federal Reserve Policy Outlook: Why Sticky Inflation Could Keep Rates Higher for Longer",
     "category": "Article",
